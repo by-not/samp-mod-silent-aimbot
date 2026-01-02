@@ -1,4 +1,11 @@
-# Silent Aimbot v1.0 - Features Documentation
+# Silent Aimbot v1.0
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-SA--MP-blue" />
+  <img src="https://img.shields.io/badge/Language-CLEO-orange" />
+  <img src="https://img.shields.io/badge/Status-Stable-green" />
+  <img src="https://img.shields.io/badge/License-Educational-lightgrey" />
+</p>
 
 ## 📋 Overview
 Silent Aimbot is an advanced targeting system for SA-MP that provides precise aiming assistance with multiple protection and customization features.
@@ -8,7 +15,7 @@ Silent Aimbot is an advanced targeting system for SA-MP that provides precise ai
 ## 🎯 Core Features
 
 ### **Automatic Target Acquisition**
-- Automatically detects and locks onto the nearest target within the configured radius
+- Automatically detects and locks onto the nearest target within the configured radius for crosshair
 - Prioritizes targets based on distance to crosshair
 - Real-time bone position tracking for accurate hit registration
 - Support for 50 different bone points across the body
@@ -19,6 +26,18 @@ Silent Aimbot is an advanced targeting system for SA-MP that provides precise ai
   - 🟢 **Green**: Target visible and in range
   - 🟡 **Yellow**: Target in vehicle
   - 🔴 **Red**: Target behind wall/obstacle
+
+---
+
+## 🧩 Requirements
+
+Before using this script, make sure you have the following installed and properly configured:
+
+### **Required Software**
+- **GTA San Andreas (PC)** – v1.0 US  
+- **SA-MP Client** – Version 0.3.7  
+- **CLEO 4** (latest version recommended)  
+- **SAMPFUNCS** (latest build)  
 
 ---
 
@@ -251,6 +270,19 @@ DrawBlood=1
 
 ---
 
+## 🎥 Demo Videos
+
+### 🎯 Damage Registration (HitRate 100% + Ignore Distance)
+[https://user-images.githubusercontent.com/xxxx/demo1.mp4](https://github.com/user-attachments/assets/d2aee642-5aa5-40a1-a292-8452b12ff680)
+
+### 🎯 Bullet Sync & Damage Registration (Static Target, HitRate 100%)
+[https://user-images.githubusercontent.com/xxxx/demo2.mp4](https://github.com/user-attachments/assets/d0a4f948-dc31-4fa2-9b57-9f5d80c75cfb)
+
+### 🔫 Legit Moving Target Tracking (HitRate 35%) Gameplay Example
+[https://user-images.githubusercontent.com/xxxx/demo3.mp4](https://github.com/user-attachments/assets/652010e0-15b9-4735-9a20-7ca5ed4181d0)
+
+---
+
 **Created By**: not  
 **Version**: 1.0  
-**Support**: For issues or suggestions, contact the developer
+**Support:** Please report issues or suggestions through the GitHub Issues section.
