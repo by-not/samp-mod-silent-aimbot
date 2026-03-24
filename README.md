@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Platform-SA--MP-blue" />
   <img src="https://img.shields.io/badge/Language-CLEO-orange" />
   <img src="https://img.shields.io/badge/Status-Stable-green" />
-  <img src="https://img.shields.io/badge/License-Educational-lightgrey" />
+  <img src="https://img.shields.io/github/downloads/by-not/samp-mod-silent-aimbot/total?&color=blue" />
 </p>
 
 ## 📋 Overview
